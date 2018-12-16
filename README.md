@@ -3,3 +3,4 @@ code for gifs
 
 
 
+![yellowBurst](yellowBurst/yellowBurst.gif)

@@ -3,4 +3,4 @@ code for gifs
 
 
 
-![colorDrift](colorDrift/colorDrift.gif)
+![sphereSpin](sphereSpin/sphereSpin.gif)

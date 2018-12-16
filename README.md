@@ -3,4 +3,4 @@ code for gifs
 
 
 
-![yellowBurst](yellowBurst/yellowBurst.gif)
+![colorDrift](colorDrift/colorDrift.gif)

@@ -1,0 +1,1 @@
+pentagramEmanation.gif
